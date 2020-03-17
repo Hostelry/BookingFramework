@@ -1,5 +1,5 @@
 # Hostelry: Booking Platform
-A platform built for managing bookings of Inns, Pension Houses, and Hotels.
+A framework built for managing the booking process for Inns, Pension Houses, and Hotels.
 
 # License
     Copyright (C) 2020  Coding Matters Software Development Services
